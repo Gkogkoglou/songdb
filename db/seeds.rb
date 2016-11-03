@@ -5,9 +5,9 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
-song1 = Song.create({ title: "Bullet the Blue Sky", year: "1985" })
-song2 = Song.create({ title: "Starship Troopers", year: "1997" })
-song3 = Song.create({ title: "Fragkosyriani", year: "1924" })
+song1 = Song.create({ title: "Bullet the Blue Sky", year: "1985"})
+song2 = Song.create({ title: "Starship Troopers", year: "1997"})
+song3 = Song.create({ title: "Fragkosyriani", year: "1924"})
 
 artist1 = Artist.create(name: "U2")
 artist2 = Artist.create(name: "Original Sountrack")
